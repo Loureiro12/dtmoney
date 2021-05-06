@@ -7,7 +7,7 @@
 
 ## About
 
-This applications is an personal finance manager.
+Manage your money. Project developed during the second Bootcamp Ignite module.
 
 ## Screenshots
 
@@ -63,7 +63,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with 💜 by <a href="https://github.com/Loureiro12" target="_blank">Davi Silva</a>
+Made with 💜 by <a href="https://github.com/Loureiro12" target="_blank">André Loureiro </a>
 
 &#xa0;
 
